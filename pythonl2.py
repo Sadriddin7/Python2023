@@ -1,11 +1,13 @@
 name = 'Sadriddin'
 city = 'Dushanbe'
-def myName():
+def myName(ПАРРАПР):
     print('My name is ' + name + ". I live in " + city )
 
-myName()
+myName(ЛВДПРАР)
 
-def mySecondName():
+def mySecondName(ПРАПРП):
     print('My name is ' + name)
 
-mySecondName()
+mySecondName(ПАРПРПАР
+             ВАЫВА
+             АЫ)
